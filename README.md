@@ -40,5 +40,6 @@ python go-home.py
 - 結果<br>
 wordディレクトリに家庭訪問計画書が作成される．存在しない住所の場合はエラーとなる．
 Excelシートの結果にも記入がされる．成功ならOK失敗ならerror
-
+- 作成例
+![table](img/img_md2.png)
 
